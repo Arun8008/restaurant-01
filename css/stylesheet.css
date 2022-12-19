@@ -1,0 +1,239 @@
+ *{ margin:0;
+    padding:0;
+	box-sizing:border-box;
+ }
+.container{ width:1320px;
+margin:0 auto;
+padding:0 15px;
+}
+.flex-info{ display:flex;
+}
+
+.justify-content-space-between{ 
+justify-content:space-between;
+}
+.justify-content-center{ 
+justify-content:center;
+}
+.align-items-center{ align-items:center;
+}
+/*===========Header=========*/
+.head-info{ background-color:black;
+}
+.info{ background-color:red;
+      width:40%;
+	  height:40px;
+}
+.language{ background-color:red;
+      width:20%;
+	  height:40px;
+}
+/*===========Restaurant-info=========*/
+.restaurant-info{ background-color:#c7c9c8;
+padding:15px 0;
+}
+
+.restaurant{ background-color:red;
+      width:20%;
+	  height:50px;
+}
+.navbar{ background-color:red;
+      width:50%;
+	  height:50px;
+}
+.button{ background-color:red;
+      width:20%;
+	  height:50px;
+}
+/*===========Restaurant-info=========*/
+.welcome-info{ background-color:#eee;
+padding:20px 0;
+height:600px;
+}
+.flex-info1{ display:flex;
+align-items:center;
+height:500px;
+}
+.welcome{ background-color:red;
+      width:50%;
+	  height:400px;
+	
+}
+.youtube{ background-color:red;
+      width:10%;
+	  height:200px;
+	  margin-left:400px;
+}
+/*===========Interior-info=========*/
+.interior-info{ background-color:#777;
+height:500px;
+padding:60px 0;
+}
+.interior-content{ background-color:red;
+      width:40%;
+	  height:400px;
+}
+/*===========Choose-info=========*/
+.choose-info{ background-color:#eee;
+height:500px;
+padding:50px 0;
+}
+.choose-head{ background-color:red;
+ width:100%;
+ height:60px;
+margin:50px 0;
+
+}
+.choose-content{ background-color:red;
+      width:30%;
+	  height:200px;
+}
+/*===========Tasty-info=========*/
+.tasty-info{ background-color:#b2cff1;
+height:800px;
+padding:50px 0px;
+margin:40px 0;
+}
+.tasty-head{ background-color:red;
+ width:100%;
+ height:60px;
+margin:50px 0;
+}
+.flex-flow-info{ display:flex;
+flex-flow: row wrap;
+}
+.tasty-content{ background-color:red;
+      width:30%;
+	  height:80px;
+	  margin:20px 10px;
+}
+/*===========specials-info=========*/
+.specials-info{ background-color:black;
+padding:80px 0;
+}
+.specials-head{ background-color:red;
+ width:100%;
+ height:60px;
+margin:50px 0;
+
+}
+.specials-content{ background-color:red;
+      width:30%;
+	  height:300px;
+}
+/*===========event-info=========*/
+.event-info{ background-color:#777;
+height:500px;
+padding:60px 0;
+}
+.event-head{ background-color:red;
+ width:100%;
+ height:60px;
+ margin-bottom:30px;
+}
+.event-content{ background-color:red;
+      width:40%;
+	  height:300px;
+}
+/*===========table-info=========*/
+.table-info{ background-color:#fff;
+height:500px;
+padding:60px 0;
+
+}
+.table-head{ background-color:red;
+ width:100%;
+ height:60px;
+ margin-bottom:30px;
+}
+.table-content{ background-color:red;
+      width:80%;
+	  height:300px;
+}
+/*===========about-info=========*/
+.about-info{ background-color:black;
+padding:80px 0;
+}
+.about-head{ background-color:red;
+ width:100%;
+ height:60px;
+margin-bottom:50px;
+
+}
+.about-content{ background-color:red;
+      width:30%;
+	  height:200px;
+}
+/*===========photos-info=========*/
+.photos-info{ background-color:##b2cff1;
+padding:80px 0;
+}
+.photos-head{ background-color:red;
+ width:100%;
+ height:60px;
+margin-bottom:50px;
+}
+.flex-info2{ display:flex;
+flex-flow: row wrap;
+}
+
+.photos-content{ background-color:red;
+      width:25%;
+	  height:200px;
+	  border:1px solid black;
+}
+/*===========Chefs-info=========*/
+.Chefs-info{ background-color:#eee;
+padding:80px 0;
+}
+.Chefs-head{ background-color:red;
+ width:100%;
+ height:60px;
+margin-bottom:50px;
+
+}
+.Chefs-content{ background-color:red;
+      width:30%;
+	  height:200px;
+}
+/*===========contact-info=========*/
+.contact-info{ background-color:#777;
+padding:80px 0;
+height:900px;
+}
+.contact-head{ background-color:red;
+ width:100%;
+ height:60px;
+margin-bottom:50px;
+
+}
+.contact-content1{ background-color:blue;
+      width:100%;
+	  height:300px;
+	  margin:40px 0;
+}
+.contact-content2{ background-color:red;
+      width:30%;
+	  height:200px;	  
+}
+.contact-content3{ background-color:red;
+      width:50%;
+	  height:300px;  
+}
+/*===========footer-info=========*/
+.footer-info{ background-color:#333333;
+padding:80px 0;
+}
+
+.footer-content{ background-color:red;
+      width:20%;
+	  height:300px;
+}/*===========foot-info=========*/
+.foot-info{ background-color:#fff;
+padding:20px 0;
+}
+
+.foot-content{ background-color:red;
+      width:30%;
+	  height:60px;
+}
